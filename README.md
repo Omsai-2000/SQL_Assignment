@@ -1,6 +1,6 @@
-# SQL_Assignment
+## SQL_Assignment
 
-Task 1: Enquiry and Transaction Counts
+# Task 1: Enquiry and Transaction Counts
 
 The task 1 provided SQL query aggregates the total number of enquiries and transactions per user on a given date, 
 combining data from the enquiries and txns tables.
